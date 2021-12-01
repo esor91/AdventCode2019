@@ -1,0 +1,9 @@
+def masstofuel(mass):
+	fuel = (mass // 3) - 2
+	print(fuel)
+
+#Checks
+#masstofuel(14)
+#masstofuel(12)
+#masstofuel(1969)
+#masstofuel(100756)
